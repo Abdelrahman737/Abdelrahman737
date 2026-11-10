@@ -110,7 +110,7 @@ I'm passionate about **building intelligent systems, developing efficient data p
          alt="LinkedIn"
          title="Connect on LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:abdelrahman00737@gmail.com"
      target="_blank"
      rel="noopener noreferrer">
