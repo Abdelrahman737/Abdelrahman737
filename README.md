@@ -31,93 +31,90 @@
 
 
 
+
 ## About Me
 
-I'm a Computer Science (Artificial Intelligence) graduate focused on AI Engineering and Data Engineering, with hands-on experience developing AI-powered applications and data-driven solutions.
+I'm a **Computer Science (Artificial Intelligence) graduate** focused on **AI Engineering and Data Engineering**, with hands-on experience developing AI-powered applications and data-driven solutions.
 
-During my six-month internship, I applied AI engineering skills to real-world projects, gaining practical experience in AI application development, sentiment analysis, system integration, and collaborative software development.
-My technical expertise includes Python, SQL, Pandas, NumPy, scikit-learn, FastAPI, MySQL, and Power BI, with experience in machine learning, data preprocessing, feature engineering, database design, REST APIs, and workflow automation.
+During my **six-month internship**, I applied AI engineering skills to real-world projects, gaining practical experience in **AI application development, sentiment analysis, system integration, and collaborative software development**.
 
-My projects include an AI-powered e-commerce automation system integrating LLM APIs, FastAPI, MySQL, and n8n to automate order validation, inventory management, and business workflows.
-I'm passionate about building intelligent systems, developing efficient data pipelines, and transforming data into practical, scalable solutions.
+My technical expertise includes **Python, SQL, Pandas, NumPy, scikit-learn, FastAPI, MySQL, and Power BI**, with experience in machine learning, data preprocessing, feature engineering, database design, REST APIs, and workflow automation.
 
-## Technical Skills
+My projects include an **AI-powered e-commerce automation system** integrating **LLM APIs, FastAPI, MySQL, and n8n** to automate order validation, inventory management, and business workflows.
+
+I'm passionate about **building intelligent systems, developing efficient data pipelines, and transforming data into practical, scalable solutions**.
+
+
+
+<h2 align="center">Technical Skills</h2>
 
 <h3 align="center">Programming Languages</h3>
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="46" height="46" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="46" height="46" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="46" height="46" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="46" height="46" />
+  <img src="./assets/icons/python.svg" width="48" height="48" alt="Python" />
+  <img src="./assets/icons/cplusplus.svg" width="48" height="48" alt="C++" />
+  <img src="./assets/icons/php.svg" width="48" height="48" alt="PHP" />
 </p>
 
-<h3 align="center">Machine Learning & Data</h3>
-
+<h3 align="center">Machine Learning &amp; Data</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="46" height="46" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="46" height="46" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="46" height="46" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="46" height="46" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="46" height="46" />
+  <img src="./assets/icons/scikitlearn.svg" width="48" height="48" alt="Scikit-learn" />
+  <img src="./assets/icons/pandas.svg" width="48" height="48" alt="Pandas" />
+  <img src="./assets/icons/numpy.svg" width="48" height="48" alt="NumPy" />
+  <img src="./assets/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib" />
+  <img src="./assets/icons/seaborn.svg" width="48" height="48" alt="Seaborn" />
+  <img src="./assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter" />
+  <img src="./assets/icons/mysql.svg" width="48" height="48" alt="MySQL" />
+  <img src="./assets/icons/excel.svg" width="48" height="48" alt="Excel" />
+  <img src="./assets/icons/powerbi.svg" width="48" height="48" alt="Power BI" />
 </p>
 
-<h3 align="center">Backend, Analytics & Automation</h3>
-
+<h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="46" height="46" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="46" height="46" />
+  <img src="./assets/icons/fastapi.svg" width="48" height="48" alt="FastAPI" />
+  <img src="./assets/icons/n8n.svg" width="48" height="48" alt="n8n" />
 </p>
 
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-2070B4?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-3178C6?style=for-the-badge" alt="DAX" />
+  <img src="./assets/icons/html5.svg" width="48" height="48" alt="HTML5" />
+  <img src="./assets/icons/css3.svg" width="48" height="48" alt="CSS3" />
+  <img src="./assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" />
+  <img src="./assets/icons/react.svg" width="48" height="48" alt="React" />
 </p>
 
-<h3 align="center"> Development Tools</h3>
-
+<h3 align="center">DevOps</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="46" height="46" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VS Code" width="46" height="46" />
+  <img src="./assets/icons/docker.svg" width="48" height="48" alt="Docker" />
+  <img src="./assets/icons/linux.svg" width="48" height="48" alt="Linux" />
+  <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/github-dark.svg" />
+    <img src="./assets/icons/github-light.svg" width="48" height="48" alt="GitHub" />
+  </picture>
+  <img src="./assets/icons/aws.svg" width="48" height="48" alt="AWS" />
 </p>
 
 ---
 
-## Experience
 
-**AI & Software Development Intern — Centre for Intelligent Cloud Computing (CICC)**  
-*Multimedia University | July–October 2026*
+<h2 align="center">Connect with Me</h2>
 
-- Integrated web-scraping data sources with a sentiment-analysis application, troubleshooting collection and integration workflows.
-- Improved sentiment-analysis dashboards and connected frontend features with backend functionality.
-- Contributed to the design and documentation of an LLM-assisted sentiment-model training workflow.
-- Developed Power BI learning materials covering Power Query, data modeling, DAX, and interactive reports.
-- Supported backend endpoints and integration testing for a leave-management application.
-
-## Featured Projects
-
-### AI-Powered E-commerce Order Automation System
-
-**Python · FastAPI · MySQL · n8n · REST APIs · LLM APIs**  
-*Final-year project — In development*
-
-An e-commerce automation platform combining order management, relational databases, REST APIs, and intelligent workflow orchestration. It includes stock validation, order processing, invoice generation, notifications, and LLM-assisted consistency checks.
-
-### JomBus — Bus Ticket Booking System
-
-**PHP · MySQL · JavaScript · HTML · CSS**  
-*Team project*
-
-A web-based bus booking system with relational database design, trip validation, seat reservations, user authentication, and booking/payment record management.
-
----
-
-## Connect
-
-- **LinkedIn:** [linkedin.com/in/abdelrahmanamr1](https://www.linkedin.com/in/abdelrahmanamr1/)
-- **GitHub:** [github.com/Abdelrahman737](https://github.com/Abdelrahman737)
-- **Email:** [abdelrahman00737@gmail.com](mailto:abdelrahman00737@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelrahmanamr1/">
+    <img src="./assets/icons/linkedin.svg"
+         alt="LinkedIn"
+         title="LinkedIn"
+         width="48"
+         height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:abdelrahman00737@gmail.com">
+    <img src="./assets/icons/gmail.svg"
+         alt="Email"
+         title="Email"
+         width="48"
+         height="48" />
+  </a>
+</p>
 
 <!-- To display this README on your GitHub profile, create a PUBLIC repository named exactly Abdelrahman737, then put this file at its root as README.md. -->
