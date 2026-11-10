@@ -97,24 +97,30 @@ I'm passionate about **building intelligent systems, developing efficient data p
 ---
 
 
+
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelrahmanamr1/">
+  <a href="https://www.linkedin.com/in/abdelrahmanamr1/"
+     target="_blank"
+     rel="noopener noreferrer">
     <img src="./assets/icons/linkedin.svg"
-         alt="LinkedIn"
-         title="LinkedIn"
          width="48"
-         height="48" />
+         height="48"
+         alt="LinkedIn"
+         title="Connect on LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:abdelrahman00737@gmail.com">
+  <a href="mailto:abdelrahman00737@gmail.com"
+     target="_blank"
+     rel="noopener noreferrer">
     <img src="./assets/icons/gmail.svg"
-         alt="Email"
-         title="Email"
          width="48"
-         height="48" />
+         height="48"
+         alt="Email"
+         title="Send me an email" />
   </a>
 </p>
+
 
 <!-- To display this README on your GitHub profile, create a PUBLIC repository named exactly Abdelrahman737, then put this file at its root as README.md. -->
